@@ -1,0 +1,12 @@
+utk menambahkan font yg di aset bs juga dengan menambahkan class theme thmedata bersama dengna menu home page
+agar tidak membuat tema berulang buat file dart lagi agar dapat dipakai ulang
+wrap widget command . utk shortcut tmbh widget
+create padding utk membuat space antar widget
+gunakan spacer utk membuat widget di pojok kanan
+agar tidak cape membuat widget yang sama, buat folder dan file dart baru agar bisa dipanggil
+gunakan constructor 
+gunakan boolean dan ternary untuk membuat pesan yang belum dibaca dan sudah
+gunakan singlechildcolumn view agar bisa di scroll
+gunakan floatingbuttonlocation untuk membuat widget dibagian bawah
+menggunakan expended untuk membuat column dan row melebar menyesuaikan
+padding untuk membuat jarak tiap widget
